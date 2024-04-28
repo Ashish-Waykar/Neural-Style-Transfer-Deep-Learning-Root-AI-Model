@@ -4,7 +4,7 @@ CUDA GPU Nvidia A-100
 
 ## Jupyter Notebook model for Neural Style Transfer utilising CUDA GPU Technology
 
-# We introduce a computer system based on a Deep Neural Network, capable of producing artistic images with exceptionally high visual quality. This system uses neural representations  to separate and then combine the content and style elements from any given images.Essentially, it offers a computerized method for creating artistic images.
+## We introduce a computer system based on a Deep Neural Network, capable of producing artistic images with exceptionally high visual quality. This system uses neural representations  to separate and then combine the content and style elements from any given images.Essentially, it offers a computerized method for creating artistic images.
 
 ## Image Reconstruction
 ![image](https://github.com/Ashish-Waykar/Neural-Style-Transfer-Deep-Learning-Root-AI-Model/assets/81794601/2f4df1d7-40ef-4139-a1d4-860082a3cc3b)
